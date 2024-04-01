@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 ## Introduction
- 안녕하세용 태현이에요 ^.^
+ SW개발 AI관련 관심을 가지고 공부중인 정태현입니다.
 
  ## Career 
   - 육군 하사 전역
